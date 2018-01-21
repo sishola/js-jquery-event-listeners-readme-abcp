@@ -11,3 +11,6 @@ function getIt(){
 function frameIt(){
   $("img").on("load")
 }
+function pressIt(){
+  $("img").on("load")
+}
