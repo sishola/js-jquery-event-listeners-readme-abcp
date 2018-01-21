@@ -6,5 +6,8 @@ $(document).ready(function(){
 
 });
 function getIt(){
-  $("p").
+  $("p").on("click",alert("Hey!"))
+}
+function frameIt(){
+  $("img").on()
 }
