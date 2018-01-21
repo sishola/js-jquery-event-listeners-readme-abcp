@@ -9,5 +9,5 @@ function getIt(){
   $("p").on("click",alert("Hey!"))
 }
 function frameIt(){
-  $("img").on()
+  $("img").on("load")
 }
